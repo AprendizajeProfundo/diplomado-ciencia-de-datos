@@ -17,7 +17,8 @@ Sábados, 8-12m (hora de Colombia)
  - Jessica López, jelopezme@unal.edu.co 
 
 ## Preliminares
- - Estreno: [Githyb](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
+ - Roles en la Ciencia de Datos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
+ - Claves de su Desarrollo [GitHub](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb)
 - Paseo por las herramientas digitales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb)
 - Jupyter Lab [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Imagenes_Jupyter.ipynb)
 
