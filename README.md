@@ -1,9 +1,40 @@
-# Diplomado en Ciencia de Datos :mortar_board:
+# Diplomado diplomado de ciencia de datos
+Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en ciencia de datos  para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
+## Horarios 
+Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
+Sábados, 8-12m (hora de Colombia)
 
-Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo.
+## Coordinador
+- Campo Elías Pardo Turriago, cepardot@unal.edu.co
+## Conferencistas 
+- Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
+- Oleg Jarma Montoya, Estadístico, ojarmam@unal.edu.co 
+- Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
+## Asesora Medios y Marketing digital
+- Maria del Pilar Montenegro, pmontenegro88@gmail.com
+ ### Monitora 
+ - Jessica López, naariasc@unal.edu.co 
 
-## Introducción :bookmark_tabs:
-- [Roles de la Ciencia de Datos](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Presentaciones/ap_IA_Estado_Arte.slides.html#/), [GitHub](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb)
-- [Ciencia de Datos. Claves de su Desarollo](), [Slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Presentaciones/ds_claves_desarrollo.slides.html)
+## Preliminares
+ - Estreno: [Githyb](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
+- Paseo por las herramientas digitales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb)
+- Jupyter Lab [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Imagenes_Jupyter.ipynb)
+
+## Programación con Python
+- Conceptos básicos de programación [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/tree/main/Programaci%C3%B3n-Python/Cuadernos)
+- Tipos de datos básicos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb)
+- Operadores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0030_Operadores.ipynb)
+- Estructuras de control [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0040_Estructuras_de_Control.ipynb)
+- Funciones [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0050_Funciones.ipynb)
+- Iteradores e iterables [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0060_Iterables_Iteradores.ipynb)
+- Tuplas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0070_Tuplas.ipynb)
+- Listas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0080_Listas.ipynb)
+- Diccionarios [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0090_Diccionarios.ipynb)
+- Conjuntos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/py_0100_Conjuntos.ipynb)
+- Programación orientada a objetos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb)
+- Decoradores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0120_Decoradores.ipynb)
+- Blue-prints: Buenas prácticas de programacion [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb)
+
+
+ 
