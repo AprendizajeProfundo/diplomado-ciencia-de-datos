@@ -14,7 +14,7 @@ Sábados, 8-12m (hora de Colombia)
 ## Asesora Medios y Marketing digital
 - Maria del Pilar Montenegro, pmontenegro88@gmail.com
  ### Monitora 
- - Jessica López, naariasc@unal.edu.co 
+ - Jessica López, jelopezme@unal.edu.co 
 
 ## Preliminares
  - Estreno: [Githyb](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
