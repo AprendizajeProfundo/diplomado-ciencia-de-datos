@@ -1,9 +1,9 @@
 # Diplomado en ciencia de datos
 Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en ciencia de datos  para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
 ## Horarios 
-Lunes, Miercoles Y Viernes, 6-8 pm (hora de Colombia) 
+Lunes, Miercoles Y Viernes, 6pm - 8pm (hora de Colombia) 
 
-Sábados, 8-12m (hora de Colombia)
+Sábados, 8 am - 12pm (hora de Colombia)
 
 ## Coordinador
 - Campo Elías Pardo Turriago, cepardot@unal.edu.co
