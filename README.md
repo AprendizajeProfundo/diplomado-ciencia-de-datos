@@ -38,5 +38,13 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Blue-prints: Buenas prácticas de programacion [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb)
 - Taller Numpy [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb)
 - Taller Pandas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Pandas.ipynb)
+- Taller Matplotlib [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
 
- 
+ ## Estadística
+ - Conceptos básicos de probabilidad [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+ - Variables Aleatorias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Variables_Aleatorias.ipynb)
+ - Variables Aleatorias continuas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Distribuciones_continuas.ipynb)
+ - Ingroducción Teoría de la Información [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb)
+ Introducción a R - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_R.ipynb)
+ Introducción a R - SQL tidiver - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb)
+ - Taller de distribuciones- Python [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb)
