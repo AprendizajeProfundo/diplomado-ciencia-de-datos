@@ -1,6 +1,6 @@
 Este es el directorio de cuadernos preliminares.
 
-Aquí podemos comenzar a trabajar con el lenguaje markdown.
+Aquí podemos comenzar a trabajar con el lenguaje markdown. Estoy escribiendo en markdown
 
 Podemos escribir *En itálico* o en **negrita**
 
@@ -44,10 +44,10 @@ LaTeX tiene múltiples convenciones para llamar símbolos, y funciones para hace
 
 Podemos también hacer cosas como matrices
 
-\begin{bmatrix}
+\begin{pmatrix}
 1 & 2 & 3\\
 a & b & c
-\end{bmatrix}
+\end{pmatrix}
 
 E insertarlas dentro del texto cambiando su tamaño usando $\big(\begin{smallmatrix}a & b\\c & d\end{smallmatrix}\big)$ 
 
