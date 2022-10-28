@@ -39,6 +39,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Taller Numpy [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb)
 - Taller Pandas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Pandas.ipynb)
 - Taller Matplotlib [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
+- Taller Programación Básica enfocado a Contenido Web [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
 
  ## Estadística
  - Conceptos básicos de probabilidad [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
