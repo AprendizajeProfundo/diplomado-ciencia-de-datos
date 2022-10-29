@@ -22,7 +22,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Paseo por las herramientas digitales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb)
 - Jupyter Lab [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Imagenes_Jupyter.ipynb)
 - Introducción a R y RStudio [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb)
-- 
+
 ## Programación con Python
 - Conceptos básicos de programación [nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0010_Intro_Python.ipynb)
 - Tipos de datos básicos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb)
