@@ -50,6 +50,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
  - Introducción a R - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_R.ipynb)
  - Introducción a R - SQL Tidiverse - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb)
  - Taller de distribuciones- Python [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb)
+ - Taller de gráficos en R [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb)
 
 ## Matemáticas
 
