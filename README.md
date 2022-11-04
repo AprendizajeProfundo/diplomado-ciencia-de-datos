@@ -52,7 +52,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
  - Taller de gráficos en R [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb)
  - Taller de distribuciones- Python [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb)
  - Taller de Scipy [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb) [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb)
- - Introducción a la Modelación estadística [Github]https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
+ - Introducción a la Modelación estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
  - Metodología de la Modelación Estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/tree/main/Matematicas-Estadistica/Cuadernos)
 
 ## Matemáticas
