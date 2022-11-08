@@ -67,3 +67,19 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Introducción a Tensores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0010_Intro_Tensores.ipynb)
 - Algebra Tensorial [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0020_Algebra_Tensorial.ipynb)
 - Jugando con Tensores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/t_0030_Tensores_Redes_Imagenes.ipynb)
+
+## Reducción de dimensión
+
+- El concepto de dimensión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0010_Intro_Reduce_Dimension.ipynb)
+- Concepto de q-dimensión [Gitbuh](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0020_Concepto%20de%20q-dimensi%C3%B3n.ipynb)
+- Reducción lineal de dimensión:PCA y regresión logística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0030_PCA_Reg_Logit.ipynb)
+- Análisis de Componentes Independientes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0040_ICA.ipynb)
+
+## Métodos descriptivos multivariados
+
+- Introducción a los modelos no supervisados [Gihub](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/AprendizajeNoSupervisado.ipynb)
+- Análisis de Componentes principales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACP.ipynb)
+- Análisis de componentes principales generalizado [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACPgeneralgithub.ipynb)
+- Análisis de correspondencias simples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACS.ipynb)
+- Análisis de correspondencias múltiples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACM.ipynb)
+- Agrupamiento (clustering) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/Agrupamiento.ipynb)
