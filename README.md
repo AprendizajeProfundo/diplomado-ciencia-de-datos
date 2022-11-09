@@ -71,7 +71,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 ## Reducción de dimensión
 
 - El concepto de dimensión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0010_Intro_Reduce_Dimension.ipynb)
-- Concepto de q-dimensión [Gitbuh](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0020_Concepto%20de%20q-dimensi%C3%B3n.ipynb)
+- Concepto de q-dimensión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0020_Concepto%20de%20q-dimensi%C3%B3n.ipynb)
 - Reducción lineal de dimensión:PCA y regresión logística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0030_PCA_Reg_Logit.ipynb)
 - Análisis de Componentes Independientes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0040_ICA.ipynb)
 
