@@ -78,7 +78,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 ## Métodos descriptivos multivariados
 
 - Introducción a los modelos no supervisados [Gihub](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/AprendizajeNoSupervisado.ipynb)
-- Análisis de Componentes principales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACP.ipynb)
+- Análisis de Componentes principales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACPcienciaDatos.ipynb)
 - Análisis de componentes principales generalizado [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACPgeneralgithub.ipynb)
 - Análisis de correspondencias simples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACS.ipynb)
 - Análisis de correspondencias múltiples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACM.ipynb)
