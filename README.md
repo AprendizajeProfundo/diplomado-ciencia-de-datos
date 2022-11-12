@@ -74,6 +74,9 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Concepto de q-dimensión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0020_Concepto%20de%20q-dimensi%C3%B3n.ipynb)
 - Reducción lineal de dimensión:PCA y regresión logística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0030_PCA_Reg_Logit.ipynb)
 - Análisis de Componentes Independientes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0040_ICA.ipynb)
+- Isomap [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0050_Isomap.ipynb)
+- Linearly Local Embedding [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0060_LLE.ipynb)
+- UMAP [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0070_UMAP.ipynb)
 
 ## Métodos descriptivos multivariados
 
