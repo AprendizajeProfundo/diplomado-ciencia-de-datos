@@ -77,6 +77,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Isomap [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0050_Isomap.ipynb)
 - Linearly Local Embedding [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0060_LLE.ipynb)
 - UMAP [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/rd_0070_UMAP.ipynb)
+- Mapas auto-organizados - SOM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Reduccion-dimension-visualizacion/Cuadernos/som_Introduccion.ipynb)
 
 ## Métodos descriptivos multivariados
 
