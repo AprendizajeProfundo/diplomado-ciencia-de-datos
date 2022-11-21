@@ -93,3 +93,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
 - Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
 
+## Modelos supervisados
+
+- Introducción a modelos GLM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_Reg_Intro.ipynb)
+- Modelo de Regresión Poisson [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Regresion_Poisson.ipynb)
