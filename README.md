@@ -95,5 +95,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 
 ## Modelos supervisados
 
-- Introducción a modelos GLM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_Reg_Intro.ipynb)
-- Modelo de Regresión Poisson [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Regresion_Poisson.ipynb)
+- Distribuciones muestrales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Distribuciones_muestrales.ipynb)
+- Introducción a modelos GLM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
+- Modelo de Regresión Poisson [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
+- Modelo de Regresión Binomial [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
