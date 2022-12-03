@@ -99,3 +99,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Introducción a modelos GLM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
 - Modelo de Regresión Poisson [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
 - Modelo de Regresión Binomial [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
+
+## Métodos no supervisados
+- Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
+- HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
