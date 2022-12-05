@@ -1,1 +1,0 @@
-Presentaciones de redes neuronales
