@@ -106,5 +106,5 @@ Sábados, 8 am - 12pm (hora de Colombia)
 
 ## Redes Neuronales
 
-- Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](), [slides]()
+- Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
 - Primera Red Neuronal con la API Sequential de Keras (Simulación) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer]()
