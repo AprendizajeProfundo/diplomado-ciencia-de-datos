@@ -112,3 +112,9 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
 - Clasificación. Ejemplo básico: Iris  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am-subclassing-iris.ipynb)
 - Clasificación usando subclassing. Ejemplo completo: MNIST [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/Intro_Keras_Subclassing_mnist.ipynb)
+
+
+## Redes Neuronales Recurrentes
+- Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
+- Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
+- Predicción acción Apple a tres días [Github](ttps://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
