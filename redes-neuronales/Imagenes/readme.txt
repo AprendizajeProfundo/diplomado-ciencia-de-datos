@@ -1,2 +1,1 @@
-
-Imagenes de redes recurrentes
+Imagenes PLN
