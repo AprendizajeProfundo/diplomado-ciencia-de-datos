@@ -118,3 +118,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
 - Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
 - Predicción acción Apple a tres días [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
+
+## Procesamiento de Lenguaje Natural
+
+- Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
