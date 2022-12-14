@@ -119,9 +119,8 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
 - Preparación de datos y primera serie con datos sintéticos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
 - Predicción acción Apple a tres días [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
-- Incrustaciones (embeddings) y clasificación de dcoumentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
-## Procesamiento de Lenguaje Natural
 
+## Procesamiento de Lenguaje Natural
 - Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
-- Incrustaciones (Embeddings) y clasificación automática de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
+- Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
 
