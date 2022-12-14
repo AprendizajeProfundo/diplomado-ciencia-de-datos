@@ -123,4 +123,5 @@ Sábados, 8 am - 12pm (hora de Colombia)
 ## Procesamiento de Lenguaje Natural
 
 - Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
+- Incrustaciones (Embeddings) y clasificación automática de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
 
