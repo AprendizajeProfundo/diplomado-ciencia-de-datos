@@ -9,8 +9,9 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Campo Elías Pardo Turriago, cepardot@unal.edu.co
 ## Conferencistas 
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
-- Camilo José Torres Jiménez,MSc, cjtorresj@unal.edu.co  
+- Campo Elías Pardo Turriago, PhD, cepardot@unal.edu.co
 - Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
+- Camilo José Torres Jiménez, MSc, cjtorresj@unal.edu.co  
 ## Asesora Medios y Marketing digital
 - Maria del Pilar Montenegro, pmontenegro88@gmail.com
  ### Monitores
