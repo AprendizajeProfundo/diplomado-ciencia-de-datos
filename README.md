@@ -1,4 +1,4 @@
-# Diplomado en ciencia de datos
+# Diplomado en Ciencia de Datos
 Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en ciencia de datos  para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
 ## Horarios 
 Lunes, Miercoles Y Viernes, 6pm - 8pm (hora de Colombia) 
@@ -10,7 +10,7 @@ Sábados, 8 am - 12pm (hora de Colombia)
 ## Conferencistas 
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
 - Campo Elías Pardo Turriago, PhD, cepardot@unal.edu.co
-- Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
+- Daniel Mauricio Montenegro Reyes, MSc, dammontenegrore@unal.edu.co
 - Camilo José Torres Jiménez, MSc, cjtorresj@unal.edu.co  
 ## Asesora Medios y Marketing digital
 - Maria del Pilar Montenegro, pmontenegro88@gmail.com
