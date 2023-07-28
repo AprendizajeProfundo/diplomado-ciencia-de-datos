@@ -1,59 +1,106 @@
 # Diplomado en Ciencia de Datos
 Este es un repositorio para aquellos interesados en adquirir conocimientos de alto nivel en ciencia de datos  para desarrollar, asesorar, dirigir proyectos de innovación científica y tecnológica en sus trabajos, basados en las técnicas más modernas de manejo de información.
-## Horarios 
-Lunes, Miercoles Y Viernes, 6pm - 8pm (hora de Colombia) 
 
-Sábados, 8 am - 12pm (hora de Colombia)
+## Horarios 
+Lunes, Miercoles Y Viernes, 6 pm - 8 pm (hora de Colombia) 
+
+Sábados, 8 am - 12 pm (hora de Colombia)
 
 ## Coordinador
 - Campo Elías Pardo Turriago, cepardot@unal.edu.co
+
 ## Conferencistas 
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co 
 - Campo Elías Pardo Turriago, PhD, cepardot@unal.edu.co
 - Daniel Mauricio Montenegro Reyes, MSc, dammontenegrore@unal.edu.co
 - Camilo José Torres Jiménez, MSc, cjtorresj@unal.edu.co  
+
 ## Asesora Medios y Marketing digital
 - Maria del Pilar Montenegro, pmontenegro88@gmail.com
- ### Monitores
- - Jessica López, jelopezme@unal.edu.co
- - Camilo Chitivo, cchitivo@unal.edu.co
+
+## Monitores
+- Jessica López, jelopezme@unal.edu.co
+- Camilo Chitivo, cchitivo@unal.edu.co
 
 ## Preliminares
-- Claves de Desarrollo en Ciencia de Datos: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb)
-- Roles en la Ciencia de Datos: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
-- Paseo por las herramientas digitales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb)
-- Jupyter Lab: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Intro_Jupyter.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Intro_Jupyter.ipynb)
-- Introducción a R y RStudio: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb)
+- Claves de Desarrollo en Ciencia de Datos: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb), 
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb)
+- Roles en la Ciencia de Datos: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb), 
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_Roles_Data_science.ipynb)
+- Paseo por las herramientas digitales: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb), 
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Herramientas_Digitales.ipynb)
+- Jupyter Lab: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Intro_Jupyter.ipynb), 
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Intro_Jupyter.ipynb)
+- Introducción a R y RStudio: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb), 
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb)
 
 ## Programación con Python
-- Conceptos básicos de programación: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0010_Intro_Python.ipynb), [nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0010_Intro_Python.ipynb)
-- Tipos de datos básicos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb)
-- Operadores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0030_Operadores.ipynb)
-- Estructuras de control [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0040_Estructuras_de_Control.ipynb)
-- Funciones [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0050_Funciones.ipynb)
-- Iteradores e iterables [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0060_Iterables_Iteradores.ipynb)
-- Tuplas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0070_Tuplas.ipynb)
-- Listas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0080_Listas.ipynb)
-- Diccionarios [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0090_Diccionarios.ipynb)
-- Conjuntos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/py_0100_Conjuntos.ipynb)
-- Programación orientada a objetos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb)
-- Decoradores [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0120_Decoradores.ipynb)
+- Conceptos básicos de programación: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0000_Conceptos_Basicos.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0000_Conceptos_Basicos.ipynb)
+- Introducción al lenguaje de programación Python: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0010_Intro_Python.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0010_Intro_Python.ipynb)
+- Tipos de datos básicos: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb)
+- Operadores: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0030_Operadores.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0030_Operadores.ipynb)
+- Estructuras de control: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0040_Estructuras_de_Control.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0040_Estructuras_de_Control.ipynb)
+- Funciones: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0050_Funciones.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0050_Funciones.ipynb)
+- Inspección, Instalación y Carga de Módulos y Paquetes: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0051_Modulos_Python.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0051_Modulos_Python.ipynb)
+- Iteradores e iterables 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0060_Iterables_Iteradores.ipynb)
+- Tuplas 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0070_Tuplas.ipynb)
+- Listas 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0080_Listas.ipynb)
+- Diccionarios 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0090_Diccionarios.ipynb)
+- Conjuntos 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/py_0100_Conjuntos.ipynb)
+- Programación orientada a objetos 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb)
+- Decoradores 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0120_Decoradores.ipynb)
 - Blue-prints: Buenas prácticas de programacion [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb)
-- Taller Numpy [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb)
-- Taller Pandas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Pandas.ipynb)
-- Taller Matplotlib [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
-- Taller Programación Básica enfocado a Contenido Web [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
+- Introducción al módulo `numpy`: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb), 
+[nbviewver](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb)
+- Taller Pandas 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Pandas.ipynb)
+- Taller Matplotlib 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
+- Taller Programación Básica enfocado a Contenido Web 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
 
  ## Estadística
- - Conceptos básicos de probabilidad [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+ - Conceptos básicos de probabilidad 
+ [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
  - Variables Aleatorias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Variables_Aleatorias.ipynb)
  - Variables Aleatorias continuas [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Distribuciones_continuas.ipynb)
  - Introducción Teoría de la Información [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb)
  - Introducción a R - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_R.ipynb)
  - Introducción a R - SQL Tidiverse - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb) [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb)
  - Taller de gráficos en R [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb)
- - Taller de distribuciones- Python [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb)
- - Taller de Scipy [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb) [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb)
+ - Taller de distribuciones- Python 
+ [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb), 
+ [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Distribuciones.ipynb)
+ - Taller de Scipy 
+ [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb) 
+ [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb)
  - Introducción a la Modelación estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
  - Metodología de la Modelación Estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb)
 
@@ -115,14 +162,13 @@ Sábados, 8 am - 12pm (hora de Colombia)
 - Clasificación. Ejemplo básico: Iris  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am-subclassing-iris.ipynb)
 - Clasificación usando subclassing. Ejemplo completo: MNIST [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/Intro_Keras_Subclassing_mnist.ipynb)
 
-
-## Redes Neuronales Recurrentes
+### Redes Neuronales Recurrentes
 - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
 - Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
 - Preparación de datos y primera serie con datos sintéticos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
 - Predicción acción Apple a tres días [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
 
-## Procesamiento de Lenguaje Natural
+### Procesamiento de Lenguaje Natural
 - Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
 - Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
 
