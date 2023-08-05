@@ -72,10 +72,10 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Conjuntos 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/py_0100_Conjuntos.ipynb)
 - Programación orientada a objetos 
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb)
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb), [nbviewer](nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0110_POO.ipynb)
 - Decoradores 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0120_Decoradores.ipynb)
-- Blue-prints: Buenas prácticas de programacion [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb)
+- Blue-prints: Buenas prácticas de programacion [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb), [nbviewer](nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0130_Patrones_POO.ipynb)
 - Introducción al módulo `numpy`: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Numpy.ipynb)
@@ -87,9 +87,9 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
 
  ## Web scraping
- - Introducción al web scraping [Github]() [nbviewer]()
- - Web scraping con Selenium [Github]() [nbviewer]()
- - Taller RegEx [Github]() [nbviewer]()
+ - Introducción al web scraping: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Intro.ipynb)
+ - Web scraping con Selenium: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
+ - Taller RegEx: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb)
 
  ## Estadística
  - Conceptos básicos de probabilidad 
