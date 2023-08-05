@@ -86,6 +86,11 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Taller Programación Básica enfocado a Contenido Web 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Web.ipynb)
 
+ ## Web scraping
+ - Introducción al web scraping [Github]() [nbviewer]()
+ - Web scraping con Selenium [Github]() [nbviewer]()
+ - Taller RegEx [Github]() [nbviewer]()
+
  ## Estadística
  - Conceptos básicos de probabilidad 
  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
