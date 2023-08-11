@@ -21,6 +21,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 ## Monitores
 - Jessica López, jelopezme@unal.edu.co
 - Camilo Chitivo, cchitivo@unal.edu.co
+- Daniel Rojas, anrojasor@unal.edu.co
 
 ## Preliminares
 - Claves de Desarrollo en Ciencia de Datos: 
