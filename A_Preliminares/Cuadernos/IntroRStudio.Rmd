@@ -1,0 +1,202 @@
+---
+title: "Diplomado en Ciencia de Datos Introducción a RStudio"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  html_notebook: default
+---
+# Estructuras de control
+En la mayoría de lenguajes de programación, que soportan el paradigma imperativo, existen tres estructuras de control básicas:
+
+- Secuencia
+- Selección (o decisión)
+- Iteración (o repetición)
+
+# Secuencia
+La ejecución del programa (algoritmo codificado en el lenguaje de programación) se realiza en orden de aparición de las sentencias. Una `sentencia` puede ser *simple* (solamente una instrucción) o *compuesta* (varias instrucciones que siguen un orden y que fueron agrupadas).
+
+## Ejemplo
+
+```{r}
+x = 1
+y = 2
+cat(x, y)
+```
+En el ejemplo hay tres sentencias. Dos sentencias de asignación de valores y una sentencia de impresión. Se ejecuta una después de la otra.
+
+## Estructura if
+Si la instrucción lógica es verdadera *if* imprime la siguiente instrucción. 
+Los comandos entre llaves se comportan como una instrucción. La indentación es
+voluntaria, se suele utilizar para facilitar la lectura del código.
+```{r}
+x = 5
+y = 3
+if (x > y){
+    cat("x es mayor que y\n")
+    cat("Este texto se imprimirá únicamente si x es mayor que y \n")
+}
+cat("Este texto se imprimirá sin que ello dependa de si x es mayor que y\n")
+```
+
+Ahora observe el cambio 
+
+```{r}
+x = 3
+y = 5
+if (x > y){
+    cat("x es mayor que y\n")
+    cat("Este texto se imprimirá únicamente si x es mayor que y \n")
+}
+cat("Este texto se imprimirá sin que ello dependa de si x es mayor que y\n")
+```
+
+Los comandos agrupados entre {} después del *if* no se ejecutan porque la sentencia 
+lógica es falsa.
+
+## Estructura if- else
+Cuando hay dos alternativas de ejecución, dependiendo de la evaluación de una condición, se puede emplear la estructura if-else. Ahora observe el siguiente ejemplo.
+
+```{r}
+x = 3; y = 5
+if (x > y) {
+    print("La condición es verdadera")
+    print("Este texto se imprimirá únicamente si x es mayor que y")
+} else {
+    print('La condición es falsa')
+    print("Este texto se imprimirá únicamente si x NO es mayor que y")
+}
+print("Este texto se imprimirá sin que ello dependa de si x es mayor que y")
+```
+Lo que se agregó aquí fue un else. Este debe ir después de un if y se ejecuta cuando la condicion del if no se cumple, es decir cuando su valor lógico es: FALSE.
+
+### Ejercicio
+Reemplaze Campo Elías por su nombre y ejecute el trozo de R, analice el resultado
+```{r}
+N = "Campo Elías"
+if (length(N) > 10) A="es un nombre largo" else A="es un nombre corto"
+cat(N, A, sep=" ... ")
+```
+
+## Estructuras de repetición (iteración, ciclos o bucles)
+
+### Ciclo while
+
+```{r}
+contador = 0
+cat('¡Empezando!\n')
+while (contador < 10) {
+    cat(contador, ' ', end = '')
+    contador = contador + 1
+}
+cat('\n¡Hecho!\n')
+```
+
+### Ciclo for
+
+```{r}
+cat('\nInicio:\n')
+for (i in 1:20) cat(i, ' ', end='')
+cat('\nHecho.')
+```
+#### Ejercicio
+
+Reescriba los dos ejemplos anteriores cambiado de `while` a `for` y viceversa, según el caso.
+
+### Sentencia break
+
+```{r}
+for (i in 1:10) {
+  cat(i)
+  if (i == 5) break
+}
+```
+
+## Estructuras de control anidadas
+
+```{r}
+x = 5
+y = 3
+cat("x =", x, "y =", y)
+if (x > y){ 
+    cat("\nCinco es mayor que tres\n")
+    for (i in 1:10) cat(i, end=", ")
+    x = 9.9
+}
+y = 2
+cat("\nx =", x, ", y =", y)
+```
+### Ejemplo de la tablas multiplicar
+```{r}
+cat("\nAlgunas Tablas de Multiplicar:\n")
+for (i in 6:8) { # i va aumentado desde 1, luego va a 2,3,...
+    cat('\nTabla del', i,'\n')
+    for (j in 1:10) cat(i, "x", j, " = ", i*j,"\n", sep='')
+}
+```
+
+### Ejemplo de una sucesión creciente de asteríscos
+
+```{r}
+# Sucesión creciente de asteríscos
+num_lineas = 11
+for (i in 1:num_lineas) {            
+    for (j in 1:i) cat('*', end='')        
+    cat('\n')   
+}
+```
+# Funciones en R
+
+## Funciones predefinidas
+
+Están en las librerías básicas de R es decir en las que se instalan cuando con R y que que están disponibles en cualquier sesión de trabajo, por ejemplo *sin* y *round*, *cat*:
+
+```{r}
+round(sin(pi),4)
+round(sin(pi/4),4)
+# en un vector de más dimensiones
+angulo = seq(0,pi,pi/8)
+cat("\nangulo:", round(angulo,4))
+cat("\nseno:",round(sin(angulo),4))
+```
+Ejemplo función *rbind*
+
+```{r}
+rbind(angulo=round(angulo,4),seno=round(sin(angulo),4))
+```
+## Creación de funciones en R
+
+Ejemplo función suma:
+
+```{r}
+suma = function(x,y){
+    s = x + y
+    return(s)
+}
+```
+Utilizándolo para sumar 3 y 5:
+
+```{r}
+suma(3,5)
+```
+   
+### Una función que regresa dos valores
+
+```{r}
+mysum_prod = function(x,y){
+    s = x + y
+    p = x * y
+    return(rbind(suma=s, producto=p))
+}
+```
+$3+5$ y $3\times 5$
+```{r}
+mysum_prod(3,5)
+```
+
+# Seguir practicando R
+
+El menú de RStudio permite entrar directamente a la documentación para seguir avanzado y utilizando R. Además el menú grafico tiene los comandos más utilizados en R y RStudio.
+
+Se está utilizando mucho, por ejemplo, para producir informes seriados, por ejemplo diarios, cambiando el archivo de datos.
+
