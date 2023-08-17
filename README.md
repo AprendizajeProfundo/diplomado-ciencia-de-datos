@@ -109,13 +109,13 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Distribuciones de probabilidad en Python: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_distribuciones.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_distribuciones.ipynb)
+- Taller Matplotlib 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
 - Introducción al paquete `plotly`: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/Taller_Plotly.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Plotly.ipynb#Gr%C3%A1ficos-de-distribuci%C3%B3n)
-- Taller Matplotlib 
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
- - Introducción a la Modelación estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
- - Metodología de la Modelación Estadística [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb)
+- Introducción al modelado estadístico [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
+- Metodología del modelado estadístico [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb)
 
 ## Matemáticas
 
