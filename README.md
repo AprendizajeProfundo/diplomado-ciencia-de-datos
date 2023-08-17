@@ -91,31 +91,45 @@ Sábados, 8 am - 12 pm (hora de Colombia)
  - Taller RegEx: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb)
 
 ## Estadística
-- Conceptos básicos de probabilidad 
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
-- Variables Aleatorias
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Variables_Aleatorias.ipynb)
-- Variables Aleatorias continuas
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Distribuciones_continuas.ipynb)
-- Probabilidad Conjunta [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
-- Introducción Teoría de la Información [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb)
-- Introducción a R - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion2R.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion2R.ipynb) 
-- Introducción a R-Studio [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/IntroRStudio.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/IntroRStudio.ipynb)
-- Introducción a R - SQL Tidiverse - Taller [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb) [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb)
-- Taller de gráficos en R [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb)
+- Conceptos básicos de probabilidad: 
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+- Variables Aleatorias:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Variables_Aleatorias.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Variables_Aleatorias.ipynb)
+- Variables Aleatorias continuas:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Distribuciones_continuas.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Distribuciones_continuas.ipynb)
+- Probabilidad Conjunta:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
+- Introducción Teoría de la Información:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/ti_Teoria_Informacion.ipynb)
+- Introducción a R - Taller:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion2R.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion2R.ipynb) 
+- Introducción a R-Studio:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/IntroRStudio.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/IntroRStudio.ipynb)
+- Introducción a R - SQL Tidiverse - Taller
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb) [nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller%20SQL%20y%20Tidyverse.ipynb)
+- Taller de gráficos en R:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_Graficos_R.ipynb)
 - Introducción al paquete `scipy`: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb), 
-[nbviewer](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb)
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_scipy.ipynb)
 - Distribuciones de probabilidad en Python: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_distribuciones.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Taller_distribuciones.ipynb)
-- Taller Matplotlib 
+- Taller Matplotlib: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Matplotlib.ipynb)
 - Introducción al paquete `plotly`: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programación-Python/Cuadernos/Taller_Plotly.ipynb), 
-[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Plotly.ipynb#Gr%C3%A1ficos-de-distribuci%C3%B3n)
-- Introducción al modelado estadístico [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
-- Metodología del modelado estadístico [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb)
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/Taller_Plotly.ipynb)
+- Introducción al modelado estadístico:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Introduccion_Modelacion_estadistica.ipynb)
+- Metodología del modelado estadístico:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Metodologia_Modelacion_estadistica.ipynb)
 
 ## Matemáticas
 
