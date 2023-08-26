@@ -162,7 +162,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Análisis de Componentes principales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACPcienciaDatos.ipynb)
 - Análisis de componentes principales generalizado [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACPgeneralCienciaDatos.ipynb)
 - Análisis de correspondencias simples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACScienciaDatos.ipynb)
-- Análisis de correspondencias múltiples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/ACMcienciaDatos.ipynb)
+- Análisis de correspondencias múltiples [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/def8b6ee407d148bd19babf6359f9af9aa07dc3f/Metodos-exploratorios-mutlivariados/Cuadernos/ACMcienciaDatos.ipynb)
 - Agrupamiento (clustering) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/Agrupamiento.ipynb)
 
 ## Métodos ensamblados
