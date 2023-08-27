@@ -192,6 +192,9 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
 - HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
 
+## Validación de modelos
+- Validación de modelos: Accuracy/Exactitud, Precisión, Recall/Sensibilidad... [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/610a56429da5b9ed680b34d528b77330bc7aceff/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb)
+
 ## Redes Neuronales
 
 - Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
