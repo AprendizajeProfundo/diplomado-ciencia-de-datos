@@ -185,9 +185,9 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Regresión lineal en Python:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Regresión-Lineal-Python.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Regresión-Lineal-Python.ipynb)
-- Regresión lineal múltiple con Scikit Learn (Sklearn):
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-scikit.ipynb),
-[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-scikit.ipynb)
+- Regresión lineal múltiple:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-lineal-multiple.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-lineal-multiple.ipynb)
 - Introducción a modelos GLM:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
