@@ -197,10 +197,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Modelo de Regresión Poisson:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
-- Modelo de Regresión Logístico:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb),
-[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
-- Modelo de Regresión Binomial:
+- Modelos de Regresión Logística y Regresión Binomial:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
 
