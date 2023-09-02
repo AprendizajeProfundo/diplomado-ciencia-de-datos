@@ -197,9 +197,12 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Modelo de Regresión Poisson:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
-- Modelos de Regresión Logística y Regresión Binomial:
+- Modelos de Regresión Logística y Binomial:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
+- Modelo de Regresión Logística:
+[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
 
 ## Métodos ensamblados
 - Arboles de decisión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_010_Arboles%20de%20decision.ipynb)
