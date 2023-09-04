@@ -218,7 +218,9 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 
 ## Validación de modelos
 - Validación de modelos: Accuracy/Exactitud, Precisión, Recall/Sensibilidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/610a56429da5b9ed680b34d528b77330bc7aceff/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb)
-- Detección de anomalias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/f4e021a3cd345a7038c2642ed20879eae23a83cd/Validacion-modelos/Cuadernos/anomalias.ipynb)
+- Detección de anomalias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/ba902821e4426e0c48f4f73c95cce1e7c088355c/Validacion-modelos/Cuadernos/anomalias.ipynb)
+- Preprocesamiento de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/ba902821e4426e0c48f4f73c95cce1e7c088355c/Validacion-modelos/Cuadernos/preprocesamiento_datos.ipynb)
+- Transformación de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/ba902821e4426e0c48f4f73c95cce1e7c088355c/Validacion-modelos/Cuadernos/transformacion_datos.ipynb)
 
 ## Redes Neuronales
 
