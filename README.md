@@ -241,3 +241,8 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
 - Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
 
+### Introducción a bases de datos y manejo de datos
+- Introducción a bases de datos relacionales [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Intro.ipynb)
+- Modelo Entidad Relación (E-R) [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Modelo_E_R.ipynb)
+- SQL I [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL.ipynb)
+- SQL II [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL-2.ipynb)
