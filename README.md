@@ -203,7 +203,6 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Modelo de Regresión Logística:
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
-
 - Maquinas de soporte vectorial (SVM) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 - Ejemplos SVM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
