@@ -101,7 +101,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
  - Web scraping con Selenium: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
  - Taller RegEx: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb)
 
-## Introducción a bases de datos y manejo de datos
+## Introducción a bases de datos
 
 - Introducción a bases de datos relacionales [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Intro.ipynb)
 - Modelo Entidad Relación (E-R) [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Modelo_E_R.ipynb)
@@ -208,14 +208,6 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Maquinas de soporte vectorial (SVM): [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 - Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
-## Validación de modelos
-
-- Validación de modelos: Accuracy/Exactitud, Precisión, Recall/Sensibilidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb),
-[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb)
-- Preprocesamiento de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/preprocesamiento_datos.ipynb)
-- Transformación de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/transformacion_datos.ipynb)
-- Detección de anomalias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
-
 ## Métodos ensamblados
 - Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_010_Arboles%20de%20decision.ipynb)
 - Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
@@ -224,6 +216,14 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 ## Métodos no supervisados
 - Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
 - HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
+
+## Validación de modelos
+
+- Validación de modelos: Accuracy/Exactitud, Precisión, Recall/Sensibilidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb)
+- Preprocesamiento de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/preprocesamiento_datos.ipynb)
+- Transformación de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/transformacion_datos.ipynb)
+- Detección de anomalias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
 
 ## Redes Neuronales
 
