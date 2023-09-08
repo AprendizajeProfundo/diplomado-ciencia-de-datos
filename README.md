@@ -24,6 +24,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Daniel Rojas, anrojasor@unal.edu.co
 
 ## Preliminares
+
 - Claves de Desarrollo en Ciencia de Datos: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/ds_claves_desarrollo.ipynb)
@@ -41,6 +42,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/A_Preliminares/Cuadernos/Introduccion2RyRStudio.ipynb)
 
 ## Programación con Python
+
 - Conceptos básicos de programación: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0000_Conceptos_Basicos.ipynb), 
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Programaci%C3%B3n-Python/Cuadernos/py_0000_Conceptos_Basicos.ipynb)
@@ -100,6 +102,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
  - Taller RegEx: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Web-Scraping/Cuadernos/Taller_Regex.ipynb)
 
 ## Estadística
+
 - Conceptos básicos de probabilidad: 
 [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Prob_Conceptos_Basicos.ipynb)
@@ -179,35 +182,27 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 
 ## Modelos supervisados
 
-- Conceptos básicos de regresión:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/am_intro_regresion.ipynb),
+- Conceptos básicos de regresión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/am_intro_regresion.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/am_intro_regresion.ipynb)
-- Regresión lineal en Python:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Regresión-Lineal-Python.ipynb),
+- Regresión lineal en Python: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Regresión-Lineal-Python.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/Regresión-Lineal-Python.ipynb)
-- Regresión lineal múltiple:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-lineal-multiple.ipynb),
+- Regresión lineal múltiple: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-lineal-multiple.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/regresion-lineal-multiple.ipynb)
-- Introducción a modelos GLM:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
+- Introducción a modelos GLM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0020_GLM_Intro.ipynb)
-- Distribuciones muestrales:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Distribuciones_muestrales.ipynb)
+- Distribuciones muestrales: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Distribuciones_muestrales.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0030_Distribuciones_muestrales.ipynb)
-- Modelo de Regresión Poisson:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
+- Modelo de Regresión Poisson: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0050_Regresion_Poisson.ipynb)
-- Modelos de Regresión Logística y Binomial:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
+- Modelos de Regresión Logística y Binomial: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/su_0060_Regresion_Binomial.ipynb)
-- Modelo de Regresión Logística:
-[Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
+- Modelo de Regresión Logística: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/Regresion_Logistica_Sklearn.ipynb)
-- Maquinas de soporte vectorial (SVM) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
-- Ejemplos SVM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
+- Maquinas de soporte vectorial (SVM): [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
+- Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
 ## Métodos ensamblados
-- Arboles de decisión [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_010_Arboles%20de%20decision.ipynb)
+- Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_010_Arboles%20de%20decision.ipynb)
 - Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
 - Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
 
