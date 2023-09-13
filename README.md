@@ -208,6 +208,10 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Maquinas de soporte vectorial (SVM): [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 - Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
+## Series de tiempo
+- Introducción a series de tiempo [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/10-Series_de_tiempo_Introducci%C3%B3n.ipynb)
+- Series de tiempo con Darts [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/00-Darts_quickstart.ipynb)
+
 ## Métodos ensamblados
 - Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
 - Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
