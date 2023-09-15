@@ -208,18 +208,14 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Maquinas de soporte vectorial (SVM): [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 - Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
-## Series de tiempo
-- Introducción a series de tiempo [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/10-Series_de_tiempo_Introducci%C3%B3n.ipynb)
-- Series de tiempo con Darts [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/00-Darts_quickstart.ipynb)
-
 ## Métodos ensamblados
 - Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
 - Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
 - Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
 
-## Métodos no supervisados
-- Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
-- HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
+## Series de tiempo
+- Introducción a series de tiempo [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/10-Series_de_tiempo_Introducci%C3%B3n.ipynb)
+- Series de tiempo con Darts [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/00-Darts_quickstart.ipynb)
 
 ## Validación de modelos
 
@@ -227,7 +223,12 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/validacion_evaluacion.ipynb)
 - Preprocesamiento de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/preprocesamiento_datos.ipynb)
 - Transformación de datos con Sklearn [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/transformacion_datos.ipynb)
-- Detección de anomalias [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
+- Detección de anomalias. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
+
+## Métodos no supervisados
+- Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
+- HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
 
 ## Redes Neuronales
 
