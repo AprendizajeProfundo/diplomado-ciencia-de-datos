@@ -229,6 +229,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 ## Métodos no supervisados
 - Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
 - HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
+- Agrupamiento Espectral y Propagación de Afinidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0040_Spectral_Affinity.ipynb)
 
 ## Redes Neuronales
 
