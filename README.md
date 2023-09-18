@@ -210,7 +210,8 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 
 ## Métodos ensamblados
 - Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
-- Mezcla de datos: bagging [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
+- Mezcla de datos: Bagging. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
 - Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
 
 ## Series de tiempo
