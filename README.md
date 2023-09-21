@@ -214,6 +214,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
 ## Series de tiempo
+
 - Introducción a series de tiempo [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/10-Series_de_tiempo_Introducci%C3%B3n.ipynb)
 - Series de tiempo con Darts [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/00-Darts_quickstart.ipynb)
 
@@ -227,6 +228,7 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
 
 ## Métodos ensamblados
+
 - Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
 - Mezcla de datos: Bagging. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
@@ -235,9 +237,9 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 ## Redes Neuronales
 
 - Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
-- A Neural Network Playground <https://playground.tensorflow.org/>
+- [A Neural Network Playground: https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 - Primera Red Neuronal con la API Sequential de Keras (Simulación) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb)
-- Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb)
+- Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_NN_Animation.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_NN_Animation.ipynb)
 - Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
 - Clasificación. Ejemplo básico: Iris  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am-subclassing-iris.ipynb)
 - Clasificación usando subclassing. Ejemplo completo: MNIST [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/Intro_Keras_Subclassing_mnist.ipynb)
