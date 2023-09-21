@@ -187,6 +187,11 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Una estrategia de agrupamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/UnaEstrategiaAgrupamientoCienciaDatos.ipynb) [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/UnaEstrategiaAgrupamientoCienciaDatos.ipynb)
 - Agrupamiento (clustering) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/Agrupamiento.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-exploratorios-mutlivariados/Cuadernos/Agrupamiento.ipynb)
 
+## Métodos no supervisados
+- Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
+- HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
+- Agrupamiento Espectral y Propagación de Afinidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0040_Spectral_Affinity.ipynb)
+
 ## Modelos supervisados
 
 - Conceptos básicos de regresión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Matematicas-Estadistica/Cuadernos/am_intro_regresion.ipynb),
@@ -208,12 +213,6 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Maquinas de soporte vectorial (SVM): [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 - Ejemplos SVM: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/svm_020_SVM_ejemplos.ipynb)
 
-## Métodos ensamblados
-- Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
-- Mezcla de datos: Bagging. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb),
-[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
-- Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
-
 ## Series de tiempo
 - Introducción a series de tiempo [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/10-Series_de_tiempo_Introducci%C3%B3n.ipynb)
 - Series de tiempo con Darts [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Aprendizaje_supervisado/Cuadernos/00-Darts_quickstart.ipynb)
@@ -227,26 +226,37 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 - Detección de anomalias. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb),
 [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Validacion-modelos/Cuadernos/anomalias.ipynb)
 
-## Métodos no supervisados
-- Métodos de clustering: k-means, mean-shift, DBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0020_Clustering.ipynb)
-- HDBSCAN. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0030_HDBSCAN.ipynb)
-- Agrupamiento Espectral y Propagación de Afinidad. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Clustering/Cuadernos/clu_0040_Spectral_Affinity.ipynb)
+## Métodos ensamblados
+- Arboles de decisión: [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/d52d308bf8f595ec91591109b34fd4ebb7c9bf11/Metodos-ensamblados/Cuadernos/ArbolesDecisionCienciaDatos-Copy1.ipynb)
+- Mezcla de datos: Bagging. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_020_M_ensamblados_Bagging.ipynb)
+- Mezclas mixtas: Boosting [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/Metodos-ensamblados/Cuadernos/men_030_M_ensamblados_Mezclas_Boosting.ipynb)
 
 ## Redes Neuronales
 
 - Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
+- A Neural Network Playground <https://playground.tensorflow.org/>
 - Primera Red Neuronal con la API Sequential de Keras (Simulación) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb)
-- Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb)
-- Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
+- Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb)
+- Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
 - Clasificación. Ejemplo básico: Iris  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am-subclassing-iris.ipynb)
 - Clasificación usando subclassing. Ejemplo completo: MNIST [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/Intro_Keras_Subclassing_mnist.ipynb)
+
+### Redes convolucionales y clasificación de imágenes
+
+- Introducción a visión por computador. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_vision_computador.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_vision_computador.ipynb)
+- Introducción a convoluciones. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_convoluciones.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_convoluciones.ipynb)
+- Cats Vs Dogs (Kaggle Competition). [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/ti_Cat_Dog_Kaggle.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+
+### Procesamiento de Lenguaje Natural
+- Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
+- Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
 
 ### Redes Neuronales Recurrentes
 - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
 - Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
 - Preparación de datos y primera serie con datos sintéticos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
 - Predicción acción Apple a tres días [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
-
-### Procesamiento de Lenguaje Natural
-- Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
-- Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
