@@ -234,11 +234,10 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 
 - Tensorflow
     - Introducción a Redes Neuronales [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
+    - [A Neural Network Playground (https://playground.tensorflow.org/)](https://playground.tensorflow.org/)
     - Primera Red Neuronal con la API Sequential de Keras (Simulación) [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_Hello_World_ML.ipynb)
-    - Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/NN_Animation2.ipynb)
-    - Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
-    - Clasificación. Ejemplo básico: Iris  [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am-subclassing-iris.ipynb)
-    - Clasificación usando subclassing. Ejemplo completo: MNIST [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/Intro_Keras_Subclassing_mnist.ipynb)
+    - Visualización del modelo durante el entrenamiento [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_NN_Animation.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_NN_Animation.ipynb)
+    - Regresión con perceptrones. Consumo de gasolina [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/am_regresion_Keras_gasolina.ipynb)
 
 - Pytorch
    - Inicio rápido [GitHub](./redes-neuronales/Cuadernos/Pythorch_01_inicio_rapido.ipynb)
