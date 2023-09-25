@@ -260,3 +260,4 @@ Sábados, 8 am - 12 pm (hora de Colombia)
 ### Procesamiento de Lenguaje Natural
 - Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
 - Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
+- Transformers - HuggingFace pipeline [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
