@@ -251,13 +251,23 @@ Sábados, 8 am - 12 pm (hora de Colombia)
    - Pytorch Lightning [GitHub](./redes-neuronales/Cuadernos/Pytorch_lightning.ipynb)
    - Pytorch Lightning Avanzado [GitHub](./redes-neuronales/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb) 
 
+### Redes convolucionales y clasificación de imágenes
+
+- Introducción a visión por computador. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_vision_computador.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_vision_computador.ipynb)
+- Introducción a convoluciones. [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_convoluciones.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/intro_convoluciones.ipynb)
+- Cats Vs Dogs (Kaggle Competition). [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/ti_Cat_Dog_Kaggle.ipynb),
+[nbviewer](https://nbviewer.org/github/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+
+### Procesamiento de Lenguaje Natural
+- Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
+- Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
+- Transformers - HuggingFace pipeline [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
+
 ### Redes Neuronales Recurrentes
 - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
 - Redes LSTM [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_LSTM_Intro.ipynb)
 - Preparación de datos y primera serie con datos sintéticos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
 - Predicción acción Apple a tres días [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
 
-### Procesamiento de Lenguaje Natural
-- Introducción a Procesamiento de Lenguaje Natural [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Introduccion.ipynb)
-- Incrustaciones (Embeddings) y clasificación de documentos [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_Clustering_docs.ipynb)
-- Transformers - HuggingFace pipeline [Github](https://github.com/AprendizajeProfundo/diplomado-ciencia-de-datos/blob/main/redes-neuronales/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
